@@ -54,8 +54,3 @@ Web Development, AI Development, Mobile Development
 
 ---
 ⭐️ From [Adrian Kyle Mariano](https://github.com/AKSM-TFT/AKSM-TFT)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AKSM-TFT/count.svg" alt="Visitor Count" />
-</div>
