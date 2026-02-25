@@ -13,7 +13,7 @@ Welcome to my GitHub! I am a developer focused on engineering intelligent, scala
 ### 🌱 Continuous Learning
 
 I am consistently exploring new technologies to enhance my development stack. Currently, I am focused on:
-* **Modern Web Development:** Deepening my proficiency in **React** and **Tailwind CSS** to build highly responsive interfaces.
+* **Modern Web Development:** Deepening my proficiency in **React** and **Tailwind CSS** to build responsive interfaces.
 * **AI Integration:** Exploring **Agentic AI** to architect smarter, autonomous features within my web applications.
 
 ---
