@@ -16,21 +16,6 @@ I want to learn web development tools, specifically React and Tailwind CSS. Apar
 
 Web Development, AI Development, Mobile Development
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'AKSM-TFT' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AKSM-TFT/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'AKSM-TFT' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKSM-TFT&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
@@ -40,10 +25,6 @@ Web Development, AI Development, Mobile Development
 ### ⚙️ Backend
 
 <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
 
 ### 💬 Languages
 
