@@ -5,12 +5,12 @@ Welcome to my GitHub! I am a developer focused on engineering intelligent, scala
 
 ---
 
-### 🔭 Current Projects
+### Current Projects
 
 * **SignalCheckPH:** A traffic optimization application designed to calculate and deploy effective green times for intersection traffic lights.
 * **FlowState:** A web-based automation tool leveraging Power Automate and Semantic Kernel to streamline and automate manual coding workflows.
 
-### 🌱 Continuous Learning
+### Continuous Learning
 
 I am consistently exploring new technologies to enhance my development stack. Currently, I am focused on:
 * **Modern Web Development:** Deepening my proficiency in **React** and **Tailwind CSS** to build highly responsive interfaces.
@@ -18,7 +18,7 @@ I am consistently exploring new technologies to enhance my development stack. Cu
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Frontend** <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind&logoColor=white" /> 
@@ -37,7 +37,7 @@ I am consistently exploring new technologies to enhance my development stack. Cu
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 Whether it's about a potential collaboration, discussing AI, or just saying hi, feel free to reach out:
 
@@ -47,5 +47,5 @@ Whether it's about a potential collaboration, discussing AI, or just saying hi, 
 
 <br>
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/AKSM-TFT/AKSM-TFT">Adrian Kyle Mariano</a></i>
+  <i>From <a href="https://github.com/AKSM-TFT/AKSM-TFT">Adrian Kyle Mariano</a></i>
 </div>
