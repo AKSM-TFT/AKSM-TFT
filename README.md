@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a developer focused on engineering intelligent, scala
 ### Current Projects
 
 * **SignalCheckPH:** A traffic optimization application designed to calculate and deploy effective green times for intersection traffic lights.
-* **FlowState:** A web-based automation tool leveraging Power Automate and Semantic Kernel to streamline and automate manual coding workflows.
+* **Lumen:** A web-based color palette generation tool for accessible website and mobile application themes.
 
 ### Continuous Learning
 
