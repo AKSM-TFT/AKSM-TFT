@@ -15,6 +15,7 @@ Welcome to my GitHub! I am a developer focused on engineering intelligent, scala
 I am consistently exploring new technologies to enhance my development stack. Currently, I am focused on:
 * **Modern Web Development:** Deepening my proficiency in **React** and **Tailwind CSS** to build highly responsive interfaces.
 * **AI Integration:** Exploring **Agentic AI** to architect smarter, autonomous features within my web applications.
+* **Haribon:** An AI-powered, offline-first roadtrip assistant that optimizes vehicle efficiency and journey costs using hybrid RAG intelligence.
 
 ---
 
