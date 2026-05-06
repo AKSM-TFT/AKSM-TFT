@@ -9,13 +9,13 @@ Welcome to my GitHub! I am a developer focused on engineering intelligent, scala
 
 * **SignalCheckPH:** A traffic optimization application designed to calculate and deploy effective green times for intersection traffic lights.
 * **Lumen:** A web-based color palette generation tool for accessible website and mobile application themes.
+* **Haribon:** An AI-powered, offline-first roadtrip assistant that optimizes vehicle efficiency and journey costs using hybrid RAG intelligence.
 
 ### Continuous Learning
 
 I am consistently exploring new technologies to enhance my development stack. Currently, I am focused on:
 * **Modern Web Development:** Deepening my proficiency in **React** and **Tailwind CSS** to build highly responsive interfaces.
 * **AI Integration:** Exploring **Agentic AI** to architect smarter, autonomous features within my web applications.
-* **Haribon:** An AI-powered, offline-first roadtrip assistant that optimizes vehicle efficiency and journey costs using hybrid RAG intelligence.
 
 ---
 
