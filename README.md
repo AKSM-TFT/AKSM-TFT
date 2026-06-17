@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a developer focused on engineering intelligent, scala
 ### Current Projects
 
 * **SignalCheckPH:** A traffic optimization application designed to calculate and deploy effective green times for intersection traffic lights.
-* **TrailMind:** A offline survival and camping chatbot to help those who are lost
+* **TrailMind:** An offline survival and camping chatbot that uses miltary survival guides and scouts camping guides as a knowledge base for its replies.
 
 ### Continuous Learning
 
