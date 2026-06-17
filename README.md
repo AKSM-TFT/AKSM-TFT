@@ -42,7 +42,7 @@ I am consistently exploring new technologies to enhance my development stack. Cu
 Whether it's about a potential collaboration, discussing AI, or just saying hi, feel free to reach out:
 
 * **Email:** [kylemariano1635@gmail.com](mailto:kylemariano1635@gmail.com)
-* **Phone:** +63 993 436 3096
+* **Phone:** +63 993 436 3096 | +63 949 868 6834
 * **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-kyle-mariano-6b9387271) 
 
 <br>
